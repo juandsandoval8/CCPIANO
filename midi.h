@@ -3,6 +3,6 @@
 
 #include <Arduino.h>
 
-void decodeBluetooth(int lengthM, uint8_t* message);
+void checkForMidiUSB();
 
 #endif
